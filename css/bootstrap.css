@@ -1920,6 +1920,10 @@ select.form-control-lg:not([size]):not([multiple]),
 .section-footer {
   padding: 20px 0;
 }
+.title-account {
+  color: #fff !important;
+  font-size: 15px;
+}
 .btn {
   display: inline-block;
   font-weight: normal;
